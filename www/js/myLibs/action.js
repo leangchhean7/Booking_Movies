@@ -1,6 +1,6 @@
 
 function getval(me) {
-    $("#info").css("display", "inline");
+//    $("#info").css("display", "inline");
     $("#Price").val("5$");
 }
 $("#dialog").dialog({
